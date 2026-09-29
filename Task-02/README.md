@@ -122,3 +122,12 @@ An interactive filter allows users to analyze the dashboard based on content typ
 ```text
 Movie
 TV Show
+
+Netflix-Content-Intelligence/
+│
+├── README.md
+│
+├── netflix_titles.xlsx
+│
+└── image/
+    └── DASHBOARD.png
