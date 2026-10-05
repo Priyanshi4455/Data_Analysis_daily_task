@@ -24,4 +24,8 @@ Data_Analysis_daily_task/
 │   │   └── Dashboard screenshots
 │   └── 📊 Dataset / Analysis files
 │
+├── 📂 Task-02/
+│   ├── 📂 image/
+│   │   └── Dashboard screenshots
+│   └── 📊 Dataset / Analysis files
 └── 📄 README.md
