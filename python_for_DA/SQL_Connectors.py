@@ -16,7 +16,7 @@ import mysql.connector
 # In[3]:
 
 
-conn = mysql.connector.connect(host="localhost", user="root", password="Adarsh@4455", database="Ecommerce")
+conn = mysql.connector.connect(host="localhost", user="root", password="******", database="Ecommerce")
 print("connection successful")
 
 
